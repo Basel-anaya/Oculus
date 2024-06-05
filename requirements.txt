@@ -1,0 +1,9 @@
+aiohttp==3.8.3
+langchain==0.0.272
+nest_asyncio==1.5.6
+pydantic==2.3.0
+python-dotenv==1.0.0
+Requests==2.31.0
+streamlit==1.25.0
+openai==0.27.9
+watchdog==3.0.0
